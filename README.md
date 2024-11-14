@@ -11,7 +11,7 @@ This objectives of this assignment are:
 
 The functions defined to produce the masks and count the number of coins have done satisfactorily in completing the assignment task.
 
-**Language used:** Python
+**Language used:** Python (Jupyter Notebook / Google Colab)
 
 **Libraries used:** numpy, matplotlib, skimage, statistics and opencv
 
