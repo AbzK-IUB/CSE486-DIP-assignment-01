@@ -1,4 +1,4 @@
-# CSE486-DIP-assignment-01
+# CSE486-DIP-Assignment-01
 Uploaded a copy to GitHub for convenience. 
 
 This is an image processing assignment for CSE486 at IUB EEE for the semester Autumn 2024. 
